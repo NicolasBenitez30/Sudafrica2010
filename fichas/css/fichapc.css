@@ -1,0 +1,266 @@
+#ficha-resultados {
+width:40%;
+float:left;    
+}
+#ficha-escudos {
+width:30%;
+float:left;    
+}
+.tara {
+float:right;
+    width:10px;
+    height:10px;
+   background: yellow;
+}
+.tarr {
+float:right;
+    width:10px;
+    height:10px;
+   background: red;
+}
+#ficha-resultado1 {
+ width: 48%;
+    float: left;
+    background: #222;
+    font-size: 3em;
+    font-family: arial;
+    color: white;   
+}
+#ficha-resultado2 {
+  width: 48%;
+    float: right;
+    background: #222;
+    font-size: 3em;
+    font-family: arial;
+    color: white;   
+}
+.penales {
+    color:white;
+font-size:0.7em
+}
+.dt {
+    color:black;
+font-size:1em;
+text-align:center;
+background:#e2e2e2;
+}
+#plantel .nom {
+font-size:13px
+}
+#plantel .edad {
+font-size:13px;
+text-align:center
+}
+#plantel .alt {
+font-size:13px;
+text-align:center
+}
+.camiseta {
+background: white;
+    color:black;
+font-size:13px;
+font-weight:bold;
+border-radius: 100%;
+width:20px;
+}
+.camiseta2 {
+background: #0005e4;
+    color:white;
+font-size:13px;
+font-weight:bold;
+border-radius: 100%;
+width:20px;
+}
+.listajug {
+    font-size:1.1em;
+    text-shadow:1px 1px black;
+   color:white;
+}
+.listajug2 {
+    color: lightgrey;
+    font-size:1.1em;
+}
+.edad {
+    color:yellow;
+font-size:14px
+}
+.altura {
+        color:gold;
+font-size:14px
+}
+#formacion1 {
+    border-collapse: collapse;
+width:98%;
+float:left
+}
+#formacion2 {
+    border-collapse: collapse;
+width:98%;
+float:right
+}
+#formacion1 tr, #formacion2 tr {
+     border: 1px solid black;
+     height: 22px;
+}
+.arribajug {
+    font-size:10px
+}
+
+.dttr {
+    background: white;
+    color:black;
+text-align:left;
+font-weight: bold;
+font-size:1.1em;
+}
+.titulares {
+    background:darkgreen
+}
+.suplentes {
+    background:darkgreen
+}
+.incidencias1 {
+    font-size:1.1em;
+    background:#222
+}
+.incidencias2 {
+        font-size:1.1em;
+    background:white;
+    color:black
+}
+#ficha-arriba {
+    width:620px;background:#155219;font-size:12px;color:white;float:left;text-align:center
+}
+#ficha-medio {
+    width:620px;background:#155219;font-size:12px;color:white;float:left;text-align:center
+}
+#ficha-estadisticas {
+width:170px;
+text-align:center;
+font-size:12px;
+color:white;
+background:#222;
+float:right;
+margin-left:5px
+}
+#porcentaje1 {
+    background:#81ffad;
+height:20px;
+float:left;
+    font-size:16px;
+ color:black;
+ text-shadow: 1px 1px white;  
+}
+#porcentaje2 {
+ background:#0f8d3b;
+height:20px;
+float:left;
+    font-size:16px;
+ color:white;
+ text-shadow: 1px 1px black;  
+}
+#ficha-horario {
+    color:white;
+font-size:1em
+}
+.refe {
+    color: lightyellow;
+   font-weight: bold
+}
+#formac1 {
+        float: left;
+    width: 50%;
+}
+#formac2 {
+    float: right;
+    width: 50%;
+}
+.promedios {
+    font-size:0.9em
+}
+.estadi {
+    color:greenyellow;
+font-size:1.2em;
+}
+.jugandose {
+        font-size: 15px;
+    width: 100%;
+    display: block;
+}
+.finaliz {
+    background: #222;
+color:white;
+     font-size: 15px;
+    width: 100%;
+    display: block;
+}
+.nomequipo {
+    font-size:22px;
+}
+#lacancha1 {
+     float:left;
+     width:310px;
+     background-image: url('../images/can1.jpg');
+    height:330px;
+ background-repeat: no-repeat;
+background-size: 310px 330px;
+}
+#lacancha2 {
+     float:left;
+     width:310px;
+    height:330px;
+     background-image: url('../images/can2.jpg');
+ background-repeat: no-repeat;
+background-size: 310px 330px;
+
+}
+
+#eljugapos {
+    width: 65px;
+   height:30px
+}
+
+.cami1, .cami1c {
+margin:auto;
+width:24px;
+height:19px;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+border-radius:100%;
+}
+.cami2, .cami2c {
+margin:auto;
+width:24px;
+height:19px;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+border-radius:100%
+}
+
+.cami1c, .cami2c {
+    float:left;
+}
+
+
+.nombrejugi {
+color:white;
+font-size:0.75em;
+font-weight:bold;
+text-align:center;
+text-shadow:1px 1px black;
+
+}
+
+#lineaA  { 
+    float:left;
+    width:60px;
+    height:340px;
+}
+
+#lineaB  { 
+    float:left;
+    width:60px;
+    height:340px;
+}
